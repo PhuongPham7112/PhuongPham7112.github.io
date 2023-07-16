@@ -3,10 +3,9 @@ title: Game + Graphics Developer
 email: phuongp@usc.edu
 description: > # keep this and put description below
   Programmer and Designer
-url: "https://yourdomain.com" # the base hostname & protocol for your site
-linkedin_url: "https://www.linkedin.com/in/gamingportfolio"
+url: "https://phuongpham7112.github.io" # the base hostname & protocol for your site
+linkedin_url: "https://www.linkedin.com/in/phuong-pham-b29273141/"
 github_username: PhuongPham7112
-twitter_username: gamingportfolio
 footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
 
 # Build settings
