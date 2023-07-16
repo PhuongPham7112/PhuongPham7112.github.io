@@ -3,7 +3,7 @@ layout: post
 title:  "Raytracer"
 summary: "Building a simple raytracer with recursive reflections"
 date:   2023-04-24
-preview: /assets/table.jpg
+preview: /assets/table_preview.jpg
 ---
 
 ![Picture 1](/assets/test1.jpg)
