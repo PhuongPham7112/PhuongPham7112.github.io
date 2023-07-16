@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Oldest Game"
-summary: "Design Intern"
-date:   2022-09-06 15:39:40
+title:  "Height Map in OpenGL"
+summary: "Converting 2D images to 3D height maps"
+date:   2023-07-15
 preview: /assets/postpreview.png
 ---
 
 ![Picture 1](/assets/fullsize.png)
 
-Put down info here, either in bullets or paragraphs.
+This was my first project in OpenGL where I learned about the pipeline and worked vertex shader to recreate three-dimensional representations of 2D images in three different view modes: point, wireframe, and smooth. It was challenging to get the hang of OpenGL's workflow (i.e. uploading points and colors to the VBO for GPU access), but the results were very rewarding.  
