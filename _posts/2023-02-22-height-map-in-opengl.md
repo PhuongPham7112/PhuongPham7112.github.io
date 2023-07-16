@@ -3,7 +3,7 @@ layout: post
 title:  "Height Map in OpenGL"
 summary: "Converting 2D images to 3D height maps"
 date:   2023-07-15
-preview: /assets/hmap_preview.jpeg
+preview: /assets/hmap_preview.jpg
 ---
 
 ![Picture 1](/assets/hmap_point.jpeg)
