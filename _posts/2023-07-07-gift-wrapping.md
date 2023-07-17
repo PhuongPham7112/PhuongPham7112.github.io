@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gift wrapping algorithm"
-summary: "Senior Technical Designer"
+summary: "An algorithm for wrapping everything inside"
 date:   2023-07-07 15:39:40
 preview: /assets/gift_wrapping_preview.jpg
 ---
