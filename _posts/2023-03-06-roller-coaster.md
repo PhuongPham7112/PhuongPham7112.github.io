@@ -3,7 +3,7 @@ layout: post
 title:  "Roller coaster"
 summary: "Making a roller coaster ride in OpenGL"
 date: 2023-07-15
-preview: /assets/roller_coaster_img/roller_coaster_preview.jpg
+preview: /assets/roller_coaster_img/preview_roller_coaster.jpg
 ---
 
 - Built a roller coaster in OpenGL using the Catmull-Rom spline formula to create the curve of the rails. To make the spline smoother, I utilized recursion to vary the drawing step size.
