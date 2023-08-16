@@ -13,5 +13,5 @@ preview: /assets/roller_coaster_preview.jpg
 - Finally, calculate Phong shading on the rail to add that metallic finishing touch.
 
 <video width="320" height="240" controls>
-  <source src="RollerCoaster.mp4" type="video/mp4">
+  <source src="assets/RollerCoaster.mp4" type="video/mp4">
 </video>
