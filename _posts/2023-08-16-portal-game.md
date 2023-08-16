@@ -2,7 +2,7 @@
 layout: post
 title:  "Recreating Portal Game"
 summary: ""
-date:   2023-08-16 15:39:40
+date:   2023-08-16
 preview: /assets/gift_wrapping_img/gift_wrapping_preview.jpg
 ---
 
