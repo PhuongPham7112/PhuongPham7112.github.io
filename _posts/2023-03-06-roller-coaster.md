@@ -11,3 +11,7 @@ preview: /assets/roller_coaster_preview.jpg
 - The fun part was making the camera move along the rail! I basically calculated the forward, normal, and binormal vectors to adjust the camera's view at a position based on the previous position.
 - Well, the rider should be able to tell where it's up and down, so I added a ground plane textured with my chosen image (ice ground).
 - Finally, calculate Phong shading on the rail to add that metallic finishing touch.
+
+<video width="320" height="240" controls>
+  <source src="RollerCoaster.mp4" type="video/mp4">
+</video>
