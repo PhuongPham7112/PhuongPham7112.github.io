@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Recreating Star Fox Tunnel"
+title:  "Star Fox Tunnel"
 summary: ""
 date:   2023-08-16
 preview: /assets/star_fox_tunnel_demo/star_fox_tunnel_preview.jpg

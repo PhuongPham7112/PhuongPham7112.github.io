@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mario Kart"
-summary: ""
+summary: "A simple recreation of Mario Kart versus a CPU opponent"
 date:   2023-08-16
 preview: /assets/mario_kart_demo/mario_kart_preview.jpg
 ---
