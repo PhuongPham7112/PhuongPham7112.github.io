@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Recreating Mario Kart"
+title:  "Mario Kart"
 summary: ""
 date:   2023-08-16
 preview: /assets/mario_kart_demo/mario_kart_preview.jpg

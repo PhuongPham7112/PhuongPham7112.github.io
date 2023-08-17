@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Recreating Classic Mario"
+title:  "Super Mario Bro"
 summary: ""
 date:   2023-08-16
-preview: /assets/gift_wrapping_img/gift_wrapping_preview.jpg
+preview: /assets/classic_mario_demo/super_mario_preview.jpg
 ---
 
 🎮 Made a classic Mario game in C++ with SDL2, try it out:

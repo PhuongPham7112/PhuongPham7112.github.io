@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Recreating Portal Game"
+title:  "Portal"
 summary: ""
 date:   2023-08-16
 preview: /assets/portal_demo/portal_preview.jpg
