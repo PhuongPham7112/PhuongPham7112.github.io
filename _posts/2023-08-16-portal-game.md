@@ -3,7 +3,7 @@ layout: post
 title:  "Recreating Portal Game"
 summary: ""
 date:   2023-08-16
-preview: /assets/gift_wrapping_img/gift_wrapping_preview.jpg
+preview: /assets/portal_demo/portal_preview.jpg
 ---
 
 🎮 Made a Portal game in C++ with SDL2, try it out:
