@@ -3,7 +3,7 @@ layout: post
 title:  "An Arcade Prototype"
 summary: "Arcade game"
 date:   2023-08-16
-preview: /assets/mario_kart_demo/arcade_preview.jpg
+preview: /assets/arcade_demo/arcade_preview.jpg
 ---
 
 🎮 A small arcade game prototype I made last year, not exactly complete in the future, but I like the concept of a trippy experience with changing environment\
