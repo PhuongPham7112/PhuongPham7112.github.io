@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Roller coaster"
-summary: "Making a roller coaster ride in OpenGL"
+summary: "CSCI 420: Making a roller coaster ride in OpenGL"
 date: 2023-07-15
 preview: /assets/roller_coaster_img/preview_roller_coaster.jpg
 ---
