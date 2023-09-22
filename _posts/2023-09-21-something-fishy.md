@@ -3,7 +3,7 @@ layout: post
 title:  "Dev Log & Demo: Something Fishy"
 summary: "An underwater mystery puzzle"
 date:   2023-09-21
-preview: 
+preview: /assets/mario_kart_demo/mario_kart_preview.jpg
 ---
 
 ## The ideation
