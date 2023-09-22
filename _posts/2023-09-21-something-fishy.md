@@ -3,7 +3,7 @@ layout: post
 title:  "Dev Log & Demo: Something Fishy"
 summary: "An underwater mystery puzzle"
 date:   2023-09-21
-preview: /assets/mario_kart_demo/mario_kart_preview.jpg
+preview: /assets/something_fishy/something-fishy-preview.png
 ---
 
 ## The ideation
@@ -24,4 +24,3 @@ Here's a sneakpeek 👀 of how chaotic it was to build and learn on the go for t
 This is just a snippet of the game
 [<img src="/assets/something_fishy/something-fishy-demo.png">](https://clipchamp.com/watch/UMXRn5roG9R)\
 [🎮 Download the game here!](https://gumball7112.itch.io/something-fishy)
-(To be updated)
