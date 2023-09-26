@@ -21,6 +21,6 @@ Here's a sneakpeek 👀 of how chaotic it was to build and learn on the go for t
 [🌀 Dev Log](https://www.notion.so/Something-Fishy-Dev-Log-4409445ba00648259e56b910946753a6?pvs=4)
 
 ## The first demo
-This is just a snippet of the game
+🎥 This is just a snippet of the game
 [<img src="/assets/something_fishy/something-fishy-demo.png">](https://clipchamp.com/watch/UMXRn5roG9R)\
 [🎮 Download the game here!](https://gumball7112.itch.io/something-fishy)
