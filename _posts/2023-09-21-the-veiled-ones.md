@@ -9,7 +9,7 @@ preview: /assets/the_veiled_ones/the-veiled-ones.png
 I'm currently working on a horror game with fellow USC students as a technical artist, which is my first time partaking in a game project under this role. Below is some stuff I've been working on:
 
 ### Magic Looking Glass
-One of the game's main mechanism is player looking through a magical looking glass that helps them see and interact with hidden objects from the ghostly world of Jinn. My first task as a technical artist is to create that enchanting feeling of the glass. I created a volume profile for the night-vision-esque effect of the ghost world and worked on a scrolling-texture effect for glass material. Here's a little snippet 🎥:
+One of the game's main mechanism is player looking through a magical looking glass that helps them see and interact with hidden objects from the ghostly world of Jinn. My first task as a technical artist is to create that enchanting feeling of the glass. I created a volume profile for the night-vision-esque effect of the ghost world and worked on a scrolling-texture effect for glass material.
 
-[<img src="/assets/the_veiled_ones/looking-glass.png">](/assets/the_veiled_ones/Looking-Glass.mp4)\
+[Here's a little snippet 🎥](/assets/the_veiled_ones/looking_glass_gif.gif)\
 (To be updated)
