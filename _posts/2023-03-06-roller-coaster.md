@@ -12,5 +12,6 @@ preview: /assets/roller_coaster_img/preview_roller_coaster.jpg
 - Well, the rider should be able to tell where it's up and down, so I added a ground plane textured with my chosen image (ice ground).
 - Finally, calculate Phong shading on the rail to add that metallic finishing touch.
 
-![⏩🎢 **Demo Ride Video**](/assets/roller_coaster_img/roller_coaster_ride.gif)
+⏩🎢 **Demo Ride Video** \
+![](/assets/roller_coaster_img/roller_coaster_ride.gif)
 
