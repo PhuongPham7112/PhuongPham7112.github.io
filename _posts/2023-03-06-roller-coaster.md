@@ -14,5 +14,5 @@ preview: /assets/roller_coaster_img/preview_roller_coaster.jpg
 
 ⏩🎢 **Demo Ride Video**
 
-[<img src="/assets/roller_coaster_img/video_preview.jpg">](https://github.com/PhuongPham7112/PhuongPham7112.github.io/assets/47183131/be085386-c9f8-4c37-af31-11c189b73d09)
+[<video src="https://github.com/PhuongPham7112/PhuongPham7112.github.io/assets/47183131/be085386-c9f8-4c37-af31-11c189b73d09">]()
 
