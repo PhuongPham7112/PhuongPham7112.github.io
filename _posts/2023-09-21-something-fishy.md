@@ -24,3 +24,8 @@ Here's a sneakpeek 👀 of how chaotic it was to build and learn on the go for t
 🎥 This is just a snippet of the game
 [<img src="/assets/something_fishy/something-fishy-demo.png">](https://clipchamp.com/watch/UMXRn5roG9R)\
 [🎮 Download the game here!](https://gumball7112.itch.io/something-fishy)
+
+### Resources
+🔗 [Caustics effects](https://ameye.dev/notes/realtime-caustics/) \
+🔗 [More caustics effects](https://www.alanzucconi.com/2019/09/13/believable-caustics-reflections/) \
+🔗 [Inventory system](https://youtu.be/oJAE6CbsQQA) \
