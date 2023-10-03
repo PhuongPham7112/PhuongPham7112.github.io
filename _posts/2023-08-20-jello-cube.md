@@ -13,4 +13,4 @@ I attempted to recreate a jiggly jello cube's physics from CSCI 520. It's a fun 
 ![Jiggly cube](/assets/jello_demo/jiggly.gif)
 
 ### Resources
-🔗 [CSCI 520: Jello Cube assignment](https://viterbi-web.usc.edu/~jbarbic/cs520-s22/assign1/) \
+🔗 [CSCI 520: Jello Cube assignment](https://viterbi-web.usc.edu/~jbarbic/cs520-s22/assign1/)
