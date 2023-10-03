@@ -11,10 +11,10 @@ I'm currently working on a horror game with fellow USC students as a technical a
 ### Magic Looking Glass
 One of the game's main mechanism is player looking through a magical looking glass that helps them see and interact with hidden objects from the ghostly world of Jinn. My first task as a technical artist is to create that enchanting feeling of the glass. I created a volume profile for the night-vision-esque effect of the ghost world and worked on a scrolling-texture effect for glass material.
 
-[](/assets/the_veiled_ones/looking-glass.png)\
-[](/assets/the_veiled_ones/Looking-Glass.mp4)\
+![](/assets/the_veiled_ones/looking-glass.png)\
+![](/assets/the_veiled_ones/looking_glass_gif.gif)\
 (To be updated)
 
 ### Resources
 🔗 [Scrolling caustics effects](https://www.youtube.com/watch?v=uxJZghsWQ-s) \
-🔗 [Visual effects for smoke](https://www.youtube.com/watch?v=sNJ_SU20-o0&list=PLtRuo28h-g1mndib2hMyp-dVfx7Jq9cOH&index=2) \
+🔗 [Visual effects for smoke](https://www.youtube.com/watch?v=sNJ_SU20-o0&list=PLtRuo28h-g1mndib2hMyp-dVfx7Jq9cOH&index=2)
