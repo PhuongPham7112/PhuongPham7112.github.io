@@ -28,4 +28,4 @@ Here's a sneakpeek 👀 of how chaotic it was to build and learn on the go for t
 ### Resources
 🔗 [Caustics effects](https://ameye.dev/notes/realtime-caustics/) \
 🔗 [More caustics effects](https://www.alanzucconi.com/2019/09/13/believable-caustics-reflections/) \
-🔗 [Inventory system](https://youtu.be/oJAE6CbsQQA) \
+🔗 [Inventory system](https://youtu.be/oJAE6CbsQQA)
