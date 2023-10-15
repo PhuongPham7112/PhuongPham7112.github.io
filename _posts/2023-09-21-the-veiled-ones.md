@@ -18,6 +18,7 @@ One of the game's main mechanism is player looking through a magical looking gla
 The ghostly entity **Jinn** will always be in the player's presence, but depending on whether the player looks through the looking glass, Jinn will have different visual effects. I'm working on an interactive smoke that will emit from Jinn in the normal human world. Still in working progress :)
 
 ![](/assets/the_veiled_ones/jinn-smoke.gif)\
+![](/assets/the_veiled_ones/jinn-smoke-final.gif)\
 (To be updated)
 
 ### Resources

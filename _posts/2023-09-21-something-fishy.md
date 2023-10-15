@@ -6,6 +6,11 @@ date:   2023-09-21
 preview: /assets/something_fishy/something-fishy-preview.png
 ---
 
+## The first demo
+🎥 This is just a snippet of the game
+[<img src="/assets/something_fishy/something-fishy-demo.png">](https://clipchamp.com/watch/UMXRn5roG9R)\
+[🎮 Download the game here!](https://gumball7112.itch.io/something-fishy)
+
 ## The ideation
 At the start of the semester, I got back into game development after a whole summer doing software engineering. I found myself asking what if there was a game simulating the experience of being Ariel, full of curiousity for the human world? I ran through a lot iterations for conveying such an idea.\
 What if there was a crime taking place by a coast, and you're a fish witnessing it, wanting to piece the truth together?\
@@ -19,11 +24,6 @@ Asides from absorbing all those techniques, I guess a surprising element was how
 
 Here's a sneakpeek 👀 of how chaotic it was to build and learn on the go for this game: 
 [🌀 Dev Log](https://www.notion.so/Something-Fishy-Dev-Log-4409445ba00648259e56b910946753a6?pvs=4)
-
-## The first demo
-🎥 This is just a snippet of the game
-[<img src="/assets/something_fishy/something-fishy-demo.png">](https://clipchamp.com/watch/UMXRn5roG9R)\
-[🎮 Download the game here!](https://gumball7112.itch.io/something-fishy)
 
 ### Resources
 🔗 [Caustics effects](https://ameye.dev/notes/realtime-caustics/) \
