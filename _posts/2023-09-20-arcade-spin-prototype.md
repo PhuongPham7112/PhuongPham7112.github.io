@@ -2,7 +2,7 @@
 layout: post
 title:  "DizzyDots"
 summary: "A trippy arcade game prototype"
-date:   2023-08-16
+date:   2023-09-20
 preview: /assets/arcade_demo/arcade_preview.jpg
 ---
 
