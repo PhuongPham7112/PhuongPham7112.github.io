@@ -6,7 +6,7 @@ description: > # keep this and put description below
 url: "https://phuongpham7112.github.io" # the base hostname & protocol for your site
 linkedin_url: "https://www.linkedin.com/in/phuong-pham-b29273141/"
 github_username: PhuongPham7112
-footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
+footer_text: "What I'm up to: building a rastterizer from scratch and modeling in Maya for fun!"
 
 # Build settings
 markdown: kramdown
