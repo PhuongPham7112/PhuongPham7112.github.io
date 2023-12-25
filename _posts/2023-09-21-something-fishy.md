@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dev Log & Demo: Something Fishy"
+title:  "Something Fishy"
 summary: "An underwater mystery puzzle"
 date:   2023-09-21
 preview: /assets/something_fishy/something-fishy-preview.webp
