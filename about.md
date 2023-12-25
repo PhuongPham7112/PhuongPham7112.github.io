@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /about/
 ---
 
-![Picture 1](/assets/about_me_img/airi_phuong.png)
+![Picture 1](/assets/about_me_img/airi_phuong.webp)
 
 Hey there, I'm Phuong Pham, but I normally go by Airi.
 
