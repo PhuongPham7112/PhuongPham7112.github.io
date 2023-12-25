@@ -18,6 +18,8 @@ The ghostly entity **Jinn** will always be in the player's presence, but dependi
 
 ![](/assets/the_veiled_ones/jinn-smoke-final.gif)\
 
+### Screen FX
+
 ### Flashlight
 
 ### Other light work
