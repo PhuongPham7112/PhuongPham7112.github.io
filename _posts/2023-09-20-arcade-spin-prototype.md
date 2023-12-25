@@ -3,7 +3,7 @@ layout: post
 title:  "DizzyDots"
 summary: "A trippy arcade game prototype"
 date:   2023-09-20
-preview: /assets/arcade_demo/arcade_preview.jpg
+preview: /assets/arcade_demo/arcade_preview.webp
 ---
 
 🎮 DizzyDots is a small arcade game prototype I made last year, not exactly complete in the future, but I like to experiment with the concept of a trippy experience with changing environment. Your goal as the player is very simple: collect all the green dots while avoiding the red dots, with the stage spinning around you.\
