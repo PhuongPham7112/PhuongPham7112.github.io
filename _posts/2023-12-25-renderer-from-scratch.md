@@ -8,7 +8,7 @@ preview: /assets/renderer/renderer-preview.webp
 
 Over the winter break, I made a software rasterizer with C++. The project helped me a lot with understanding the rendering pipeline and the math behind OpenGL. [Source code](https://github.com/PhuongPham7112/rasterizer-from-scratch).
 
-### Some rendered images
+### Rendered images with Gorauld shader
 ![Picture 1](/assets/renderer/output-1.webp)
 ![Picture 2](/assets/renderer/output-2.webp)
 
