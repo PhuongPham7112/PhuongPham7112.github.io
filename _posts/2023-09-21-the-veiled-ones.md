@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Art Log & Snapshots: The Veiled Ones"
-summary: "Immaculate horror exorcism vibe 🧿"
+summary: "A horror exorcism vibe 🧿"
 date:   2023-09-21
 preview: /assets/the_veiled_ones/the-veiled-ones.png
 ---
@@ -19,7 +19,10 @@ The ghostly entity **Jinn** will always be in the player's presence, but dependi
 
 ![](/assets/the_veiled_ones/jinn-smoke.gif)\
 ![](/assets/the_veiled_ones/jinn-smoke-final.gif)\
-(To be updated)
+
+### Flashlight
+
+### Other light work
 
 ### Resources
 🔗 [Scrolling caustics effects](https://www.youtube.com/watch?v=uxJZghsWQ-s) \
