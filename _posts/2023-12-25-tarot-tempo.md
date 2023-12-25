@@ -14,3 +14,4 @@ A little mobile rhythm-based game with a Tarot theme 🔮, inspired by my childh
 ![Picture 3](/assets/tarot_tempo/tarot-tempo001.webp)
 
 ### Demo
+[Snippet](https://youtu.be/rdOSvF4INEs)
