@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Veiled Ones"
-summary: "A horror exorcism vibe 🧿"
+summary: "A horror exorcism experience 🧿"
 date:   2023-09-21
 preview: /assets/the_veiled_ones/the-veiled-ones.webp
 ---
