@@ -8,7 +8,8 @@ preview: /assets/something_fishy/something-fishy-preview.webp
 
 ## The first demo
 🎥 This is just a snippet of the game
-[<img src="/assets/something_fishy/something-fishy-demo.png">](https://www.youtube.com/watch?v=YiQPrDfEPb4)\
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YiQPrDfEPb4?si=ERZ8N4UD0zLQRbDF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 [🎮 Download the game here!](https://gumball7112.itch.io/something-fishy)
 
 ## The ideation
