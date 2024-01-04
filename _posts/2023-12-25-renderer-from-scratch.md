@@ -10,6 +10,7 @@ Over the winter break, I made a software rasterizer with C++. The project helped
 
 ### Rendered images
 - Gourald shaders: diffuse + specular + ambient
+- Normal mapping
 - Glow mapping
 - Shadow mapping
 - Gamma correction
