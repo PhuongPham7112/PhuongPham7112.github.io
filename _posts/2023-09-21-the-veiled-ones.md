@@ -22,9 +22,33 @@ The ghostly entity **Jinn** will always be in the player's presence, but dependi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wHDN_bBg90o?si=Gn_1FmxFx33rYXRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Flashlight
+An auto adjusting flashlight based on the screen's luminance. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1ceNOvTyEPo?si=f33ZQruQmlwywAcJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Other light work
+### Candles
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7EwhWIKyCQE?si=hZkarkK4cSedqxwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Cloth physics and shader
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wckqksqCzh4?si=Hht1-pEZbRHQhVGN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Distortion FX
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t8vdosBwoks?si=Mv-YhloUz3ZSNAeF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Footstep FX
+(WIP)
+
+### Exorcism VFX
+(WIP)
+
+### Lighting
+(WIP)
+
+### Performance and optimization
+- Figure out why the grass is so slow? (answer: Unity built-in terrain is very limited *sad)
+- Reduce overdraw from smoke VFX.
+- Decrease flashlight's auto adjust mechanism from 20ms to sub 0.1ms.
+- Setting up occlusion culling.
+
 To be continued...
 
 ### Resources
