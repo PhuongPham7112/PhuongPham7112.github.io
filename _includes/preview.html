@@ -21,6 +21,23 @@
     {% endfor %}
 {% endfor %}
 
+<script>
+    // Get the pagination links
+    const paginationLinks = document.querySelectorAll('.pagination a');
+
+    // Add click event listener to each pagination link
+    paginationLinks.forEach(link => {
+        link.addEventListener('click', () => {
+            // Remove the 'active' class from all pagination links
+            paginationLinks.forEach(link => {
+                link.classList.remove('active');
+            });
+
+            // Add the 'active' class to the clicked pagination link
+            link.classList.add('active');
+        });
+    });
+</script>
 <div class="center">
     <div class="pagination">
         <a href="#">&laquo;</a>
