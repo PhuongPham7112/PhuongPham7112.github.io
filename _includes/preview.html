@@ -13,31 +13,31 @@
 {% endfor %}
 {% cycle 'end row' : '', '</div>', '</div>' %}
 
-<div class="pagination">
-    {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Previous</a>
-    {% else %}
-        <span>Previous</span>
-    {% endif %}
-
-    {% for page in (1..paginator.total_pages) %}
-        {% if page == paginator.page %}
-            <em>{{ page }}</em>
-        {% elsif page == 1 %}
-            <a href="{{ '/' | prepend: site.baseurl }}">{{ page }}</a>
+<div class="center">
+    <div class="pagination">
+        {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Previous</a>
         {% else %}
-            <a href="{{ site.paginate_path | prepend: site.baseurl | replace: ':num', page }}">{{ page }}</a>
+            <a href="#">Previous</a>
         {% endif %}
-    {% endfor %}
-
-    {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Next</a>
-    {% else %}
-        <span>Next</span>
-    {% endif %}
+    
+        {% for page in (1..paginator.total_pages) %}
+            {% if page == paginator.page %}
+                <a href="#">{{ page }}</a>
+            {% elsif page == 1 %}
+                <a href="{{ '/' | prepend: site.baseurl }}">{{ page }}</a>
+            {% else %}
+                <a href="{{ site.paginate_path | prepend: site.baseurl | replace: ':num', page }}">{{ page }}</a>
+            {% endif %}
+        {% endfor %}
+    
+        {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Next</a>
+        {% else %}
+            <a href="#">Next</a>
+        {% endif %}
+    </div>
 </div>
-
-
 
 <div class="site-info">
     <h3 class="info-heading"> Smaller Projects </h3>

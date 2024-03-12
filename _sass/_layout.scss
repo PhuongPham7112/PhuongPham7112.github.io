@@ -86,10 +86,12 @@
 /**
  * home pagination
  */
+ .center {
+    text-align: center;
+  }
   
   .pagination {
     display: inline-block;
-    text-align: center;
   }
   
   .pagination a {
