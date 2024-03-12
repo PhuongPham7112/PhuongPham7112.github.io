@@ -16,9 +16,9 @@
 <div class="center">
     <div class="pagination">
         {% if paginator.previous_page %}
-            <a class="nav-item" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Previous</a>
+            <a class="nav-item" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">&laquo; Prev</a>
         {% else %}
-            <a class="nav-item" href="#">Previous</a>
+            <a class="nav-item" href="#">&laquo; Prev</a>
         {% endif %}
     
         {% for page in (1..paginator.total_pages) %}
@@ -32,9 +32,9 @@
         {% endfor %}
     
         {% if paginator.next_page %}
-            <a class="nav-item" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Next</a>
+            <a class="nav-item" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Next &raquo;</a>
         {% else %}
-            <a class="nav-item" href="#">Next</a>
+            <a class="nav-item" href="#">Next &raquo;</a>
         {% endif %}
     </div>
 </div>
