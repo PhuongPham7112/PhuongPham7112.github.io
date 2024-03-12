@@ -16,5 +16,7 @@ My biggest hobby is learning, and my second one is solving puzzle games. Outside
 Feel free to reach out to discuss whatever swe, games, or graphics stuff with me:)
 
 ### Some writings
+Always found myself to gravitate towards art & tech intersection regardless of the GE classes that I have to go through.
+
 - [Relationships, Identities, and Ethics in a World of Holograms](https://docs.google.com/document/d/1Tp77wXks3hptRis9GJosnt0AJus9e0VuadcDHJX3bZI/edit?usp=sharing)
 - [Visual Art as a legacy for Jewish people in concentration camps](https://docs.google.com/document/d/1UegFPvkwvfTgQkSjARr6nexjgSb7h5iVyv0EJOuOido/edit?usp=sharing)
