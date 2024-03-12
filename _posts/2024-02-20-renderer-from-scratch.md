@@ -2,7 +2,7 @@
 layout: post
 title:  "A Renderer from Scratch"
 summary: "Building a renderer with only C++"
-date:   2023-12-25
+date:   2024-02-20
 preview: /assets/renderer/renderer-preview.webp
 ---
 
