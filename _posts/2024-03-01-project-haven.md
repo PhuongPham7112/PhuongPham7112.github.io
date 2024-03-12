@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Project Haven"
-summary: "VFX Art"
+summary: "Doing VFX Art for a survival game in UE5"
 date:   2024-03-01
 preview: /assets/postpreview.png
 ---
