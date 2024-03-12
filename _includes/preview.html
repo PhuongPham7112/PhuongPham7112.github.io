@@ -23,11 +23,11 @@
     
         {% for page in (1..paginator.total_pages) %}
             {% if page == paginator.page %}
-                <a href="#">{{ page }}</a>
+                <a class="page-num" href="#">{{ page }}</a>
             {% elsif page == 1 %}
-                <a href="{{ '/' | prepend: site.baseurl }}">{{ page }}</a>
+                <a class="page-num" href="{{ '/' | prepend: site.baseurl }}">{{ page }}</a>
             {% else %}
-                <a href="{{ site.paginate_path | prepend: site.baseurl | replace: ':num', page }}">{{ page }}</a>
+                <a class="page-num" href="{{ site.paginate_path | prepend: site.baseurl | replace: ':num', page }}">{{ page }}</a>
             {% endif %}
         {% endfor %}
     
