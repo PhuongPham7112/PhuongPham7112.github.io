@@ -1,8 +1,4 @@
-{% assign posts_per_page = 9 %}
-{% assign total_posts = site.posts | size %}
-{% assign total_pages = (total_posts | divided_by: posts_per_page) | plus: 1 %}
-
-{% for post in site.posts %}
+{% for post in paginator.posts %}
     {% cycle 'add row' : '<div class="row">', '', '' %}
         <div class="column column-33">
             <div class="preview-panel">
@@ -10,42 +6,37 @@
                     <img src="{{ post.preview }}">
                 </a>
                 <div class="post-title">{{ post.title }}</div>
-				<div class="post-summary">{{ post.summary }}</div>
-           </div>
+                <div class="post-summary">{{ post.summary }}</div>
+            </div>
         </div>
     {% cycle 'end row' : '', '', '</div>' %}
 {% endfor %}
 {% cycle 'end row' : '', '</div>', '</div>' %}
 
-<script>
-    // Get the pagination links
-    const paginationLinks = document.querySelectorAll('.pagination a');
+<div class="pagination">
+    {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Previous</a>
+    {% else %}
+        <span>Previous</span>
+    {% endif %}
 
-    // Add click event listener to each pagination link
-    paginationLinks.forEach(link => {
-        link.addEventListener('click', () => {
-            // Remove the 'active' class from all pagination links
-            paginationLinks.forEach(link => {
-                link.classList.remove('active');
-            });
+    {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+            <em>{{ page }}</em>
+        {% elsif page == 1 %}
+            <a href="{{ '/' | prepend: site.baseurl }}">{{ page }}</a>
+        {% else %}
+            <a href="{{ site.paginate_path | prepend: site.baseurl | replace: ':num', page }}">{{ page }}</a>
+        {% endif %}
+    {% endfor %}
 
-            // Add the 'active' class to the clicked pagination link
-            link.classList.add('active');
-        });
-    });
-</script>
-<div class="center">
-    <div class="pagination">
-        <a href="#">&laquo;</a>
-        <a href="#">1</a>
-        <a href="#">2</a>
-        <a href="#">3</a>
-        <a href="#">4</a>
-        <a href="#">5</a>
-        <a href="#">6</a>
-        <a href="#">&raquo;</a>
-    </div>
-  </div>
+    {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Next</a>
+    {% else %}
+        <span>Next</span>
+    {% endif %}
+</div>
+
 
 
 <div class="site-info">
