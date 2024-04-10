@@ -34,10 +34,10 @@ An auto adjusting flashlight based on the screen's luminance.
 ### Distortion FX
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t8vdosBwoks?si=Mv-YhloUz3ZSNAeF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Footstep FX
-(WIP)
-
 ### Exorcism VFX
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Eug50cLfX1A?si=5I2yimuzkS9DnyyR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Footstep FX
 (WIP)
 
 ### Lighting
