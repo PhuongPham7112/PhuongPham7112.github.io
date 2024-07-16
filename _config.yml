@@ -8,7 +8,7 @@ linkedin_url: "https://www.linkedin.com/in/phuong-pham-b29273141/"
 github_username: PhuongPham7112
 footer_text: "Made with 💜 by Phuong Pham"
 paginate: 9
-paginate_path: "/page:num/"
+paginate_path: "/archive/page:num/"
 # Build settings
 markdown: kramdown
 permalink: pretty
