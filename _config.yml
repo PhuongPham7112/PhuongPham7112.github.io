@@ -6,6 +6,7 @@ description: > # keep this and put description below
 url: "https://phuongpham7112.github.io" # the base hostname & protocol for your site
 linkedin_url: "https://www.linkedin.com/in/phuong-pham-b29273141/"
 github_username: PhuongPham7112
+artstation_url: "https://www.artstation.com/phuongpham"
 footer_text: "Made with 💜 by Phuong Pham"
 paginate: 9
 paginate_path: "/page:num/"
