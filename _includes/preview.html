@@ -17,7 +17,7 @@
   {% if paginator.page == 1 %}
     <!-- 3x1 row for the first page -->
     <div class="row">
-      {% for post in paginator.posts limit:3 %}
+      {% for post in (1...3) %}
         <div class="column column-33">
           <div class="preview-panel">
             <a href="{{ post.url | prepend: site.baseurl }}">
@@ -31,7 +31,8 @@
     </div>
   {% else %}
     <!-- 3x3 grid for subsequent pages -->
-    {% for post in paginator.posts %}
+    <div class="row">
+    {% for post in (4...paginator.total_posts) %}
         <div class="column column-33">
           <div class="preview-panel">
             <a href="{{ post.url | prepend: site.baseurl }}">
@@ -41,7 +42,8 @@
             <p>{{ post.summary }}</p>
           </div>
         </div>
-      {% endfor %}
+    {% endfor %}
+    </div>
   {% endif %}
 </div>
 
