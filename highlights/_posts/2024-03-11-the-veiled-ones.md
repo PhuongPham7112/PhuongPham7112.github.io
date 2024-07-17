@@ -3,7 +3,7 @@ layout: post
 title:  "The Veiled Ones"
 summary: "A horror exorcism experience 🧿"
 date:   2024-03-11
-preview: /assets/the_veiled_ones/the-veiled-ones.webp
+preview: /assets/the_veiled_ones/preview.webp
 ---
 ## Something very cool under construction!
 I'm currently working on a horror game with fellow USC students as a technical artist, which is my first time partaking in a game project under this role. Below is some stuff I've been working on:
