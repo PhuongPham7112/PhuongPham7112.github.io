@@ -3,7 +3,7 @@ layout: post
 title:  "Mario Kart"
 summary: "ITP 380: A simple recreation of Mario Kart versus a CPU opponent"
 date:   2023-08-16
-preview: /assets/mario_kart_demo/mario_kart_preview.webp
+preview: /assets/mario_kart_demo/preview.webp
 ---
 
 🎮 Made a Portal game in C++ with SDL2 in ITP 380, try it out!\

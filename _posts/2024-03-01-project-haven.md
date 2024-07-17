@@ -3,7 +3,7 @@ layout: post
 title:  "Project Haven"
 summary: "Doing VFX Art for a survival game in UE5"
 date:   2024-03-01
-preview: /assets/project_haven/project-haven-preview.webp
+preview: /assets/project_haven/preview.webp
 ---
 
 Working as a VFX Artist for a small survival game made in Unreal Engine called Project Haven (work in progress).

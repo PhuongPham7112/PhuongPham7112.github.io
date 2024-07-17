@@ -3,7 +3,7 @@ layout: post
 title:  "Something Fishy"
 summary: "An underwater mystery puzzle"
 date:   2024-02-21
-preview: /assets/something_fishy/something-fishy-preview.webp
+preview: /assets/something_fishy/preview.webp
 ---
 
 ## The first demo

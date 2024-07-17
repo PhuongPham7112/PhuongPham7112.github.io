@@ -2,7 +2,7 @@
 layout: post
 title:  "Implementing Skinning and Deforming 3D Characters"
 summary: "CSCI 520: My Journey with Inverse Kinematics in Computer Animation"
-preview: /assets/postpreview.png
+preview: /assets/ik/preview.webp
 ---
 
 ### Project Description

@@ -3,7 +3,7 @@ layout: post
 title:  "Raytracer"
 summary: "CSCI 420: Building a simple raytracer with recursive reflections"
 date:   2023-04-24
-preview: /assets/raytracer_img/table_preview.webp
+preview: /assets/raytracer_img/preview.webp
 ---
 
 First time learning to build raytracer from scratch using OpenGL. The logic was pretty straightforward:
