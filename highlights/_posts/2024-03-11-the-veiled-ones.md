@@ -5,7 +5,9 @@ summary: "A horror exorcism experience 🧿"
 date:   2024-03-11
 preview: /assets/the_veiled_ones/preview.webp
 ---
-## Something very cool under construction!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M2wKEU77y4Q?si=5wfn8yishXLE-Gxw&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 I'm currently working on a horror game with fellow USC students as a technical artist, which is my first time partaking in a game project under this role. Below is some stuff I've been working on:
 
 ### Magic Looking Glass
@@ -43,13 +45,16 @@ An auto adjusting flashlight based on the screen's luminance.
 ### Lighting
 (WIP)
 
+### Pipelines
+(WIP)
+
 ### Performance and optimization
 - Figure out why the grass is so slow? (answer: Unity built-in terrain is very limited *sad)
 - Reduce overdraw from smoke VFX.
 - Decrease flashlight's auto adjust mechanism from 20ms to sub 0.1ms.
 - Setting up occlusion culling.
 
-To be continued...
+[TBD]
 
 ### Resources
 🔗 [Scrolling caustics effects](https://www.youtube.com/watch?v=uxJZghsWQ-s) \
