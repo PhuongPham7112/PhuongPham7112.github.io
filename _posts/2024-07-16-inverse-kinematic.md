@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Implementing Skinning and Deforming 3D Characters"
+title:  "Deforming 3D characters"
 summary: "CSCI 520: My Journey with Inverse Kinematics in Computer Animation"
 preview: /assets/ik/preview.webp
 ---
