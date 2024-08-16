@@ -90,6 +90,11 @@
 .preview-panel {
     padding: 1rem;
     box-sizing: border-box;
+}
+
+.preview-panel-mask
+{
+    position: absolute;
     overflow: hidden;
 }
 
