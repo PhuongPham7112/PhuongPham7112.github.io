@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tech Art at Respawn"
-summary: "My experience interning at Respawn as a technical artist for StarWars"
+summary: "Interning at Respawn for the Star Wars franchise"
 date:   2024-08-16
 preview: /assets/respawn/preview.webp
 ---
