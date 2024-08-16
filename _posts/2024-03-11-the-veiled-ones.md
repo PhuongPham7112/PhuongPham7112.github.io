@@ -45,9 +45,6 @@ An auto adjusting flashlight based on the screen's luminance.
 ### Lighting
 (WIP)
 
-### Pipelines
-(WIP)
-
 ### Performance and optimization
 - Figure out why the grass is so slow? (answer: Unity built-in terrain is very limited *sad)
 - Reduce overdraw from smoke VFX.
