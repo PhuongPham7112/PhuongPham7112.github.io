@@ -90,13 +90,17 @@
 .preview-panel {
     padding: 1rem;
     box-sizing: border-box;
+}
+
+.preview-panel-img-container
+{
     overflow: hidden;
 }
 
 // source: https://tympanus.net/codrops/2011/11/02/original-hover-effects-with-css3/
 .preview-panel-img {
     display: block;
-    position: relative;
+    object-fit: cover;
     transition: all 0.2s linear;
     &:hover {
         transform: scale(1.02);
