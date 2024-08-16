@@ -89,7 +89,7 @@
 .preview-panel {
     padding: 1rem;
     box-sizing: border-box;
-    
+    transition: all 0.2s linear;
     &:hover {
         transform: scale(1.1);
     }
