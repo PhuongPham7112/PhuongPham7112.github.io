@@ -89,9 +89,9 @@
 .preview-panel {
     padding: 1rem;
     box-sizing: border-box;
-    border: 1px solid $color-initial;
     
     &:hover {
+        transform: scale(1.1);
     }
 }
 
