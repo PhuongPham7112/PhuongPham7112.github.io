@@ -7,7 +7,7 @@ permalink: /about/
 ![Picture 1](/assets/about-me.gif)
 
 ## 🛠️ My skillset
-I have experience on both the art and technical side, leaning towards the latter more.
+I have experience on both art and technical sides, leaning towards the latter more.
 - Languages: C#, C++, Python, Java, Javascript
 - Game Engine: Unreal, Unity
 - Graphics API: OpenGL, DirectX11
