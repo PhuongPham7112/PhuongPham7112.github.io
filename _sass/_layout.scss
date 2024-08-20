@@ -64,6 +64,21 @@
 	font-size: 0.75em;
 }
 
+.info-container
+{
+    display: flex;               /* Enables flexbox layout */
+    align-items: center;        /* Vertically center items */
+    justify-content: flex-start; /* Aligns items to the left */
+}
+
+.info-logo {
+    margin-right: 8px;         /* Space between the logo and the title */
+}
+
+.info-heading {
+    margin: 0;                 /* Remove default margin from the heading */
+}
+
 .site-info {
     border-bottom: 1px solid $grey-color-light;
     border-top: 1px solid $grey-color-light;
