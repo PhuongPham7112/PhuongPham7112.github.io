@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GPU-driven Interactive Realtime Grass"
-summary: ""
+summary: "My touch-grass-simulator"
 preview: /assets/grass/preview.webp
 ---
 
