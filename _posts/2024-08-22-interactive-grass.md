@@ -11,7 +11,7 @@ Inspired by this research paper, I'm building a procedural grass system with phy
 ![Grass](/assets/grass/interactive-grass.gif)
 
 ### Resources
-🔗 [Responsive Real-Time Grass Rendering for General 3D Scenes]https://www.cg.tuwien.ac.at/research/publications/2017/JAHRMANN-2017-RRTG/JAHRMANN-2017-RRTG-draft.pdf \
+🔗 [Responsive Real-Time Grass Rendering for General 3D Scenes](https://www.cg.tuwien.ac.at/research/publications/2017/JAHRMANN-2017-RRTG/JAHRMANN-2017-RRTG-draft.pdf) \
 🔗 [Bezier Arc Length](https://pomax.github.io/bezierinfo/#arclength)
 
 ### 🛠️ Tools used
