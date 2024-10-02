@@ -11,4 +11,4 @@ Using OpenGL and math libraries like Eigen and ADOL-C, I implemented linear skin
 There are two ways to go about IK: regularization vs pseudo inverse. I experimented with both, and as bonus, try out the more unstable method with dual quaternion skin blending.
 
 ### Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AA19c3Jzv-Q?si=Lpo08munJUCcPLQJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/AA19c3Jzv-Q?si=Lpo08munJUCcPLQJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
