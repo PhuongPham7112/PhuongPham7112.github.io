@@ -2,7 +2,7 @@
 layout: post
 title:  "Frustum Culling with AABB Box"
 summary: ""
-preview: /assets/postpreview.png
+preview: /assets/prime_engine/frustum/preview.webp
 ---
 
 A simple trick to boost performance: just don't render objects outside of the camera's frustum.
