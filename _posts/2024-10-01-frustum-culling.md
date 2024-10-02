@@ -5,6 +5,7 @@ summary: ""
 preview: /assets/prime_engine/frustum/preview.webp
 ---
 
+### Intro
 A simple trick to boost performance: just don't render objects outside of the camera's frustum.
 
 ### Demo

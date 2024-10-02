@@ -6,6 +6,7 @@ date:   2023-04-24
 preview: /assets/raytracer_img/preview.webp
 ---
 
+### Implementation
 First time learning to build raytracer from scratch using OpenGL. The logic was pretty straightforward:
 1. Shoot a primary ray from the camera pixel by pixel within a frame
 2. Calculate to determine whether the ray hits any object, two types of geometry in the scene was Triangle and Sphere 
@@ -14,10 +15,14 @@ First time learning to build raytracer from scratch using OpenGL. The logic was 
 5. If in shadow, render black. If not in shadow, render the color using Phong shading
 6. Shoot recursive reflection from that hit spot as well, rinse and repeat
 
-Below are some of the result pictures
-
+### Demo
+Below are some of the result pictures:
 ![Picture 1](/assets/raytracer_img/test1.webp)
 ![Picture 2](/assets/raytracer_img/test2.webp)
 ![Picture 3](/assets/raytracer_img/snow.webp)
 ![Picture 4](/assets/raytracer_img/spheres.webp)
 ![Picture 5](/assets/raytracer_img/SIGGRAPH.webp)
+
+### 🛠️ Tools used
+- C++
+- OpenGL
