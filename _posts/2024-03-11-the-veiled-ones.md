@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Veiled Ones"
-summary: "A horror exorcism experience 🧿"
+summary: "A horror exorcism experience"
 date:   2024-03-11
 preview: /assets/the_veiled_ones/preview.webp
 ---
@@ -56,3 +56,8 @@ An auto adjusting flashlight based on the screen's luminance.
 ### Resources
 🔗 [Scrolling caustics effects](https://www.youtube.com/watch?v=uxJZghsWQ-s) \
 🔗 [Visual effects for smoke](https://www.youtube.com/watch?v=sNJ_SU20-o0&list=PLtRuo28h-g1mndib2hMyp-dVfx7Jq9cOH&index=2)
+
+### 🛠️ Tools used
+- C#
+- HLSL
+- Unity

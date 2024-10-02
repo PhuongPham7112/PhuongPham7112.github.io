@@ -8,8 +8,7 @@ preview: /assets/lanesplitterz/preview.webp
 First time trying out a project that's very stylized.
 
 ### Toon Shading
-Made a toon outline & shading post-processing effect using Sobel edge detection algorithm based on normal, depth, and color. 
-Also added a bit of a custom Bloom effect inspired by Benday Dots with Scriptable Render Pipeline.
+Since my art team wanted a flatter cartoon-ish look, I made a toon outline & shading post-processing effect using Sobel edge detection algorithm based on normal, depth, and color. With some cel-shading on top and a LOT of tuning, we had a pretty cool effect that feels like a comic book. 
 ![Toon shading](/assets/lanesplitterz/content.webp)
 
 ### VFX
