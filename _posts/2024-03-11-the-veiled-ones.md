@@ -9,7 +9,7 @@ preview: /assets/the_veiled_ones/preview.webp
 ### Intro
 <iframe width="800" height="450" src="https://www.youtube.com/embed/M2wKEU77y4Q?si=5wfn8yishXLE-Gxw&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I'm currently working on a horror game with fellow USC students as a technical artist, which is my first time partaking in a game project under this role. Below is some stuff I've been working on:
+I'm currently working on a horror game with fellow USC students as a technical artist, which is my first time partaking in a game project under this role. The game is available for free on [Steam](https://store.steampowered.com/app/2858390/The_Veiled_Ones/) right now!
 
 ### Implementation
 #### Magic Looking Glass
