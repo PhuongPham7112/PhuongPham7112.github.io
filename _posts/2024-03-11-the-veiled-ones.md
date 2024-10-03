@@ -42,16 +42,15 @@ An auto adjusting flashlight based on the screen's luminance.
 <iframe width="800" height="450" src="https://www.youtube.com/embed/Eug50cLfX1A?si=5I2yimuzkS9DnyyR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Footstep FX
-(WIP)
-
-#### Lighting
-(WIP)
+<iframe width="800" height="450" src="https://www.youtube.com/embed/cNkogolSyks?si=OUZ39ZmpN38bUb1i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Performance and optimization
 - Figure out why the grass is so slow? (answer: Unity built-in terrain is very limited *sad)
 - Reduce overdraw from smoke VFX.
 - Decrease flashlight's auto adjust mechanism from 20ms to sub 0.1ms.
 - Setting up occlusion culling.
+
+[Things I learned about Perf](https://docs.google.com/document/d/e/2PACX-1vSWB8wU6kuQabpcm0mmU0ulQYmDAeaVWgHQ_QouRzUsffZbfX1QxToSWSGg6fMCqJgkLrlr7aceHm1Q/pub)
 
 ### Resources
 🔗 [Scrolling caustics effects](https://www.youtube.com/watch?v=uxJZghsWQ-s) \
