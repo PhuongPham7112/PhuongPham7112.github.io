@@ -24,11 +24,11 @@ The particle system now supports all basic particle properties. These include ag
 #### Texture Mapping for Particles
 I added support for both diffuse and normal mapping on particles. This feature allows for more detailed and realistic textures on each particle.
 
-#### Attached Emitter Functionality
-As a practical application of the new particle system, I created an emitter that can attach to a target object. Specifically, I implemented a smoke effect that emits from a target as it walks. This demonstrates the system's capability to create dynamic, movement-based particle effects.
-
 #### Flipbook Animation Support
 I implemented flipbook animation functionality, enabling more complex and detailed animated effects using sprite sheets. By dividing a texture into a grid of frames and cycling through them over time, I can now create fluid animations for particles, such as explosions or magical effects, without the need for multiple textures or complex shader logic.
+
+#### Attached Emitter Functionality
+As a practical application of the new particle system, I created an emitter that can attach to a target object. Specifically, I implemented a smoke effect that emits from a target as it walks. This demonstrates the system's capability to create dynamic, movement-based particle effects.
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/D19m8r-Nh8o?si=jbx6l7EmMQYdw_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -49,7 +49,6 @@ During the draw call gathering process, I implemented a test to check if each me
 #### Testing and Verification
 To verify the effectiveness of the frustum culling system, I set up a test scenario by spawning 100 imrod meshes in the game world. This allowed me to observe the culling in action and confirm that meshes outside the view frustum were indeed being culled correctly.
 
-This implementation of frustum culling marks a crucial optimization for Prime Engine. It will allow for more complex scenes with higher object counts while maintaining good performance. My next steps will involve fine-tuning the culling algorithm and exploring additional optimization techniques to further enhance the engine's rendering capabilities.
 <iframe width="800" height="450" src="https://www.youtube.com/embed/-g9rPlzY6xc?si=77GmDF3oPNVoAlDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Physics Collision
@@ -66,8 +65,6 @@ Upon detecting a collision, I implemented a response system that determines the 
 
 #### Gravity and Ground Detection
 I added a ground detection feature that applies gravity to Spheres when they're not in contact with ground OBBs. This simulates falling and adds a new layer of realism to character movement.
-
-These improvements have significantly enhanced my game's physics interactions, creating a more dynamic and engaging player experience. My next steps will focus on optimizing performance and expanding the system to handle more complex scenarios.
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/DYLmoc5cBxc?si=JJmaGEYI7T1LlYUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
