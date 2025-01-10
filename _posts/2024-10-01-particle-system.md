@@ -30,6 +30,12 @@ I implemented flipbook animation functionality, enabling more complex and detail
 #### Attached Emitter Functionality
 As a practical application of the new particle system, I created an emitter that can attach to a target object. Specifically, I implemented a smoke effect that emits from a target as it walks. This demonstrates the system's capability to create dynamic, movement-based particle effects.
 
+#### Particle Physics Collision
+Utilizing a physics system that I built beforehand, I applied a physics box on each particle that has been marked as physics-based, creating some bouncing effect + decrease age on the particle upon collision with other physical objects.
+
+#### Curves
+As someone who has spent a lot of time tweaking the dynamic shape of a particle over time, I really want to add something more than just "linearly increase the size over time", so I added smoother curve options such as sine, quadratic, and cubic.
+
 <iframe width="800" height="450" src="https://www.youtube.com/embed/D19m8r-Nh8o?si=jbx6l7EmMQYdw_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Frustum Culling
