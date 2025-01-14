@@ -3,6 +3,7 @@ layout: post
 title:  "Shadow Volume Exploration"
 summary: "Stencil buffer goes brr"
 ---
+
 ### Shadow Extraction
 ![Shape](/assets/shadow_volume/silhoutte-extraction.gif)
 
