@@ -28,12 +28,12 @@ This method makes some relaxation which leads to a much more stable performance.
 Define a function for $\Delta \theta$ for an optimization problem:
 
 $$
-\begin{flalign}
+\begin{aligned}
 E(\Delta \theta) =  {1 \over 2}||J.\Delta \theta - \Delta x||^2 + {\lambda \over 2} ||\Delta \theta||^2 \\ 
 \Delta \theta =  \min_{\Delta \theta} {E(\Delta \theta)} \\
  \frac{\partial E}{\partial \Delta \theta} = (J \Delta \theta - \Delta x )^{T}.J + \lambda. (\Delta \theta)^{T}.I = 0 \\
  (J^T.J + \lambda.I). \Delta \theta = J^T.\Delta x
-\end{flalign}
+\end{aligned}
 $$
 
 The second term with $\lambda$ is the controlling variable that balances stability versus accuracy. Solving the optimization problem is then equivalent to finding the solution to the last two equations. ${\Delta \theta}$ can be solved easily.
