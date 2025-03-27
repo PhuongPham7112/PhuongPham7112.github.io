@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Triplanar Mapping for Landscape"
-summary: "An tool for procedural landscape texturing"
+summary: "A tool for procedural landscape texturing"
 preview: /assets/procedural_texture/preview.webp
 ---
 
