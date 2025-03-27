@@ -10,7 +10,7 @@ Inverse Kinematic is one of the classic algorithms used for animation, an advanc
 
 How do we do this?
 $F(\theta + \Delta \theta) = F(\theta) + J. \Delta \theta + O(||\Delta \theta||^2)$ (Taylor’s series)
-where $J = {\delta F \over \delta \theta} \in R^{2\times 3}$ (Jacobian Matrix)
+where $J = {\partial F \over \partial \theta} \in R^{2\times 3}$ (Jacobian Matrix)
 
 ⇒ This leaves us with an equation that we can solve
 $$J \Delta \theta = \begin{bmatrix} x_{1}\\ x_{2} \end{bmatrix} - F(\theta) \in R^{2} = \Delta x$$
