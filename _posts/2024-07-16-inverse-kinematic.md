@@ -22,6 +22,16 @@ Solve for $\Delta \theta \ {given} \ J^\dagger$
 $J.\Delta \theta = J.J^\dagger.\Delta x = (J.J^T).(J.J^T)^{-1}.\Delta x = I.\Delta x = \Delta x$
 but do notice that $J^\dagger.J \neq I, J.J^\dagger = I$
 
+#### Tikhonov Regularization
+This method makes some relaxation which leads to a much more stable performance.
+
+Define a function for $\Delta \theta$ for an optimization problem:
+$$\begin{aligned}
+\xi(\Delta \theta) = {1 \over 2}||J.\Delta \theta - \Delta x||^2 + {\lambda \over 2} ||\Delta \theta||^2 \\ \Delta \theta = \min_{\Delta \theta} {\xi(\Delta \theta)} \\ \delta \xi / \delta \Delta \theta = 0 = (J \Delta \theta - \Delta x ) ^T.J + \lambda. (\Delta \theta)^T.I \\ (J^T.J + \lambda.I). \Delta \theta = J^T.\Delta x
+\end{aligned}$$
+
+The second term with $\lambda$ is the controlling variable that balances stability versus accuracy. Solving the optimization problem is then equivalent to finding the solution to the last two equations. ${\Delta \theta}$ can be solved easily.
+
 ### Implementation
 Using OpenGL and math libraries like Eigen and ADOL-C, I implemented linear skin blending, forward kinematics (FK), and inverse kinematics (IK) algorithms to deform a character represented as an obj mesh, given its skinning weights and skeleton data.
 
