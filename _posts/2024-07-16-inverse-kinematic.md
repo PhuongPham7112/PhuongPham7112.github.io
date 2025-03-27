@@ -5,6 +5,23 @@ summary: "CSCI 520: Inverse Kinematics in Computer Animation"
 preview: /assets/ik/preview.webp
 ---
 
+### Theory 
+Inverse Kinematic is one of the classic algorithms used for animation, an advancement for the previous more manual and memory-intensive methods such as keyframing each vertex of an arbitrary object. The IK problem is described as the following: given an skeleton input end effector at position (x1, x2) → how do I find the joint angle $\theta$?
+
+How do we do this?
+$F(\theta + \Delta \theta) = F(\theta) + J. \Delta \theta + O(||\Delta \theta||^2)$ (Taylor’s series)
+where $J = {\delta F \over \delta \theta} \in R^{2\times 3}$ (Jacobian Matrix)
+
+⇒ This leaves us with an equation that we can solve
+$$J \Delta \theta = \begin{bmatrix} x_{1}\\ x_{2} \end{bmatrix} - F(\theta) \in R^{2} = \Delta x$$
+
+#### Pseudo Inverse Method
+$\Delta \theta = J^\dagger . \Delta x \ , J^\dagger = J^T(JJ^T)^{-1} \in R^{3 \times 2}$ where we can be sure that $JJ^{T}$ is a square matrix and you can invert it to obtain a 3x2 matrix.
+
+Solve for $\Delta \theta \ {given} \ J^\dagger$
+$J.\Delta \theta = J.J^\dagger.\Delta x = (J.J^T).(J.J^T)^{-1}.\Delta x = I.\Delta x = \Delta x$
+but do notice that $J^\dagger.J \neq I, J.J^\dagger = I$
+
 ### Implementation
 Using OpenGL and math libraries like Eigen and ADOL-C, I implemented linear skin blending, forward kinematics (FK), and inverse kinematics (IK) algorithms to deform a character represented as an obj mesh, given its skinning weights and skeleton data.
 
