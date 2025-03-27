@@ -14,8 +14,8 @@ The basic idea is to use edge detection to notice big changes in color, depth, a
 
 ![Shadergraph](/assets/lanesplitterz/image.png)
 
-EdgeDetectionOutlines.hlsl 
-<code>
+```C++
+// EdgeDetectionOutlines.hlsl 
 static float2 sobelSamplePoints[9] = {
     float2(-1, 1), float2(0, 1), float2(1, 1),
     float2(-1, 0), float2(0, 0), float2(1, 0),
@@ -39,7 +39,6 @@ static float sobelYWeights[9] = {
 void DepthSobel_float(float2 UV, float DepthLineThickness, out float Out)
 {
     float2 sobel = 0;
-    // unroll for more efficiency
     // get depth values
     [unroll] for (int i = 0; i < 9; i++)
     {
@@ -55,7 +54,6 @@ void ColorSobel_float(float2 UV, float ColorLineThickness, out float Out)
     float2 sobelRed = 0;
     float2 sobelGreen = 0;
     float2 sobelBlue = 0;
-    // unroll for more efficiency
     // get color values
     [unroll] for (int i = 0; i < 9; i++)
     {
@@ -67,7 +65,7 @@ void ColorSobel_float(float2 UV, float ColorLineThickness, out float Out)
     }
     Out = max(length(sobelRed), max(length(sobelGreen), length(sobelBlue)));
 }
-</code>
+```
 
 ### Adding VFX Juice
 The rest is just adding some stylized VFXs whipped up from VFX Graph and Particle Systems. 
