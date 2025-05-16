@@ -46,10 +46,15 @@ The final result should look like [this](https://www.tomshardware.com/how-to/ins
 ![slot](https://www.wikihow.com/images/thumb/5/5c/Install-a-Graphics-Card-Step-6-Version-3.jpg/v4-728px-Install-a-Graphics-Card-Step-6-Version-3.jpg.webp)
 
 **6. Connected all cables to the PSU**: 
-I started by connecting the 24-pin cable from the motherboard to the PSU, making sure both ends were securely attached (I mistakenly left one end hanging at first). Next, I found the 8-pin PCIe cable for the GPU and plugged it into both the graphics card and the PSU—making sure not to confuse it with the CPU cable. Finally, I connected the 8-pin CPU cable to the appropriate slot on the motherboard (the manual was a lifesaver here) and then to the PSU.
+I started by connecting the 24-pin cable from the motherboard to the PSU, making sure both ends were securely attached (I mistakenly left one end hanging at first). Next, I found the 8-pin PCIe cable for the GPU and plugged it into both the graphics card and the PSU—making sure not to confuse it with the CPU cable. Finally, I connected the 8-pin CPU cable to the appropriate slot on the motherboard (the manual was a lifesaver here) and then to the PSU. I ended up using only 4 slots on this PSU:
+
+![psu](https://cdna.pcpartpicker.com/static/forever/images/product/3b9b94c22c4f2e05ec1f71511087d108.1600.jpg)
 
 **7. Put everything inside the case**: 
 This is where I realized the order of assembly really matters. After installing the CPU, I should have mounted the motherboard in the case before adding the gigantic cooler and graphics card, since those made it almost impossible to reach the front panel pins. Thankfully, with some patience, tiny fingers, and a chopstick, I managed to screw in the motherboard and connect all the necessary pins. To prepare the case, I installed four standoffs to match the mounting holes on my motherboard, removed a slot cover at the back for the GPU’s ports, and installed the PSU at the bottom. Then I connected the Power LED, Power Button, Reset Button, and HD Audio wires to the corresponding pins (taking positive and negative charges very seriously here) on the motherboard — reading the tiny labels and double-checking with the manual as needed.
+
+![wires](https://cdn.mos.cms.futurecdn.net/Yr9GENt2hyRSgacJXLtgf6-970-80.jpg)
+![manual](https://cdn.mos.cms.futurecdn.net/YHeE5oGdkvoqgoYqaEbbXF-970-80.jpg)
 
 **8. Turn on the system**: Powered on the system and configured BIOS settings before installing the operating system. I am once again tied to the Window System.  
 
