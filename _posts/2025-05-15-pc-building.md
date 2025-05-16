@@ -62,3 +62,8 @@ Building a PC is not as scary as it feels to me. Fortunately on my part, nothing
 ## Post-Build Experience
 
 I used my build to do personal graphics programming stuff, playing games, and coding projects. Things are going smooth so far, but I will need to do more stress testing. The cable management situation is pretty much neglected, for one I am not too big on the aesthetics (no RGB whatsoever). Nonetheless, it will be the first thing I will do to enable better airflow in case things get heated up.
+
+## Tools Used
+- Screw driver
+- My brother and a lot of guides: [Linus Tech Tips PC Build Guide (2024)](https://youtu.be/s1fxZ-VWs2U?si=JdHXQ1XORkeeWzov), [Wikihow](https://www.wikihow.com/Install-a-Graphics-Card), [Tom's Hardware](https://www.tomshardware.com/how-to/build-a-pc#section-installing-the-graphics-card), [Tech Radar](https://www.techradar.com/how-to/how-to-install-an-m2-nvmesata-ssd-on-your-pc)
+- Blood, sweat, and tears
