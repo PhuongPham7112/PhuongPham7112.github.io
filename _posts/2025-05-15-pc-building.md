@@ -57,6 +57,8 @@ This is where I realized the order of assembly really matters. After installing 
 
 Building a PC is not as scary as it feels to me. Fortunately on my part, nothing too serious went wrong. All parts came exactly as expected, so I did not need to buy extra things to assemble the components. The times I got confused was when trying to boot the system up a.k.a a prebuild test outside the case. I did not connect all the pins to power the motherboard unknowingly, so I was so concerned - man did I get a dead PSU or something??? My take is that I should calm down when facing uncertainty, take a step away from the project once in a while, and read the manual and step more carefully. One thing I would be extra careful about in the future is preventing static, even though I was pretty lax in this first attempt and did not take any precaution at all without any consequences.
 
+![static](https://www.wikihow.com/images/thumb/5/58/Install-a-Graphics-Card-Step-9-Version-3.jpg/v4-728px-Install-a-Graphics-Card-Step-9-Version-3.jpg.webp)
+
 ## Post-Build Experience
 
 I used my build to do personal graphics programming stuff, playing games, and coding projects. Things are going smooth so far, but I will need to do more stress testing. The cable management situation is pretty much neglected, for one I am not too big on the aesthetics (no RGB whatsoever). Nonetheless, it will be the first thing I will do to enable better airflow in case things get heated up.
