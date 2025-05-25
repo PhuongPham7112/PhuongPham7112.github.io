@@ -13,7 +13,7 @@ Coming from a Computer Science background with an emphasis on Game Development, 
 
 I've done visual effects, physics simulation, shaders, tools scripting, and performance optimization for personal and team projects. Open to any challenges in the graphics space:)
 
-My biggest hobby is learning, and my second one is solving puzzle games. Outside of work, I enjoy cooking, reading philosophy and classical novels, learning fashion history on the side, and drawing things/people/memories I love. 
+My biggest hobby is learning, and my second one is solving puzzle games - whether it's boardgame or video game. Outside of work, I enjoy cooking, reading philosophy/classical novels, learning fashion history on the side, and drawing things/people/memories I love. 
 
 Feel free to reach out to discuss whatever swe, games, or graphics stuff with me:)
 
