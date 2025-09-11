@@ -136,3 +136,10 @@ float foam = tex2D(_FoamTex, i.uv).r;
 ```
 
 This combination of FFT, iWave, Fresnel, and foam creates a water surface that’s not just realistic but also **interactive and dynamic**.
+
+## Further exploration
+- eWave instead of iWave
+- Other spectrum aside from Phillips
+- Physically accurate buoyancy
+- Optimization for scaling bigger oceans
+- Boids simulation of seagulls
