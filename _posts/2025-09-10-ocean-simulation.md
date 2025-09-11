@@ -1,4 +1,3 @@
-# Relaxing Ocean Simulation 🌊
 ---
 layout: post
 title:  "Relaxing Ocean Simulation 🌊"
@@ -6,6 +5,7 @@ summary: "FFT-based ocean waves with iWave water interaction and GPU-driven buoy
 preview: /assets/ocean/preview.webp
 ---
 
+# Relaxing Ocean Simulation 🌊
 
 [Build Demo](https://shaderwitch.itch.io/relaxing-ocean-simulation)
 
