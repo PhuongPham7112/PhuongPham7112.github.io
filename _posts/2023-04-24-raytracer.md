@@ -7,7 +7,9 @@ preview: /assets/raytracer_img/preview.webp
 ---
 
 ### Implementation
+
 First time learning to build raytracer from scratch using OpenGL. The logic was pretty straightforward:
+
 1. Shoot a primary ray from the camera pixel by pixel within a frame
 2. Calculate to determine whether the ray hits any object, two types of geometry in the scene was Triangle and Sphere 
 3. If the primary doesn't hit anything, then there's nothing to render
@@ -16,6 +18,7 @@ First time learning to build raytracer from scratch using OpenGL. The logic was 
 6. Shoot recursive reflection from that hit spot as well, rinse and repeat
 
 ### Demo
+
 Below are some of the result pictures:
 ![Picture 1](/assets/raytracer_img/test1.webp)
 ![Picture 2](/assets/raytracer_img/test2.webp)
@@ -24,5 +27,6 @@ Below are some of the result pictures:
 ![Picture 5](/assets/raytracer_img/SIGGRAPH.webp)
 
 ### 🛠️ Tools used
+
 - C++
 - OpenGL
