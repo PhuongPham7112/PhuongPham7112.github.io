@@ -4,11 +4,10 @@ title:  "Raytracer"
 summary: "CSCI 420: Building a simple raytracer with recursive reflections"
 date:   2023-04-24
 preview: /assets/raytracer_img/preview.webp
-tags: [raytracer]
+tags: [raytracer, OpenGL, computer-graphics]
 ---
 
-### Implementation
-
+# Raytracing Logic
 First time learning to build raytracer from scratch using OpenGL. The logic was pretty straightforward:
 
 1. Shoot a primary ray from the camera pixel by pixel within a frame
@@ -18,7 +17,7 @@ First time learning to build raytracer from scratch using OpenGL. The logic was 
 5. If in shadow, render black. If not in shadow, render the color using Phong shading
 6. Shoot recursive reflection from that hit spot as well, rinse and repeat
 
-### Demo
+# Demo
 
 Below are some of the result pictures:
 ![Picture 1](/assets/raytracer_img/test1.webp)
@@ -27,7 +26,7 @@ Below are some of the result pictures:
 ![Picture 4](/assets/raytracer_img/spheres.webp)
 ![Picture 5](/assets/raytracer_img/SIGGRAPH.webp)
 
-### 🛠️ Tools used
+# 🛠️ Tools used
 
 - C++
 - OpenGL

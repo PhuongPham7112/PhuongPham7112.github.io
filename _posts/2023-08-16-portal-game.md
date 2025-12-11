@@ -7,15 +7,15 @@ preview: /assets/portal_demo/preview.webp
 tags: [Unity, Portal, game-dev]
 ---
 
-### Intro
+![game preview](/assets/portal_demo/image.png)
 
-🎮 Made a Portal game in C++ with SDL2 in ITP 380, try it out!\
+🎮 I made a Portal game in C++ with SDL2 in ITP 380, try it out!\
 🕹️ Control: W = forward, A = left, D = right, S = backward, space = jump, left-mouse = orange portal, right-mouse = blue portal
 
-### Demo
+# Demo
 
 ⏩ [Play Portal](/assets/portal_demo/Lab12.html)
 
-### 🛠️ Tools used
+# 🛠️ Tools used
 
 - C++
