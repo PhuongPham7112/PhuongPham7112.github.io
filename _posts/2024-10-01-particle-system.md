@@ -3,7 +3,7 @@ layout: post
 title:  "Particle Systems in Prime Engine"
 summary: "Making of a particle system from scratch"
 preview: /assets/prime_engine/preview.webp
-tags: [game-engine, C++]
+tags: [game-engine, C++, particle-system]
 ---
 
 Been working on the Prime Engine, an engine in CSCI 522 by my professor.

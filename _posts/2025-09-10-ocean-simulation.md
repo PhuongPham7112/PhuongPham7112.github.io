@@ -3,6 +3,7 @@ layout: post
 title:  "Relaxing Ocean Simulation 🌊"
 summary: "FFT-based ocean waves with iWave water interaction and GPU-driven buoyancy"
 preview: /assets/ocean/preview.webp
+tags: [Unity, HLSL, computer-animation, ocean-render]
 ---
 
 # Relaxing Ocean Simulation 🌊
