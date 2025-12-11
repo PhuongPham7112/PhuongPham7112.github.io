@@ -4,6 +4,7 @@ title:  "Raytracer"
 summary: "CSCI 420: Building a simple raytracer with recursive reflections"
 date:   2023-04-24
 preview: /assets/raytracer_img/preview.webp
+tags: [raytracer]
 ---
 
 ### Implementation

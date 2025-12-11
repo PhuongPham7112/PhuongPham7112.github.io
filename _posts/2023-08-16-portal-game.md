@@ -4,6 +4,7 @@ title:  "Portal"
 summary: "ITP 380: Multi-level Portal"
 date:   2023-08-16
 preview: /assets/portal_demo/preview.webp
+tags: [Unity, Portal, game-dev]
 ---
 
 ### Intro
