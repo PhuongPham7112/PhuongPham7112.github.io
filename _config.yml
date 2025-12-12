@@ -7,7 +7,7 @@ url: "https://phuongpham7112.github.io" # the base hostname & protocol for your 
 linkedin_url: "https://www.linkedin.com/in/phuong-pham-airi/"
 github_username: PhuongPham7112
 artstation_url: "https://airi_chan.artstation.com/"
-footer_text: "Made with 🩵 by Airi"
+footer_text: "Built with pixels & matcha"
 paginate: 9
 paginate_path: "/page:num/"
 # Build settings
