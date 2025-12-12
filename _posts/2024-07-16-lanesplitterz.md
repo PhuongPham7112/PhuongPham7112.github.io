@@ -6,7 +6,6 @@ preview: /assets/lanesplitterz/preview.webp
 tags: [shaders, HLSL, Unity, game-dev, tech-art]
 ---
 
-# Intro
 Lanesplitterz was my first time trying out a project that's very stylized. Since my art team wanted a flatter cartoon-ish look, I made a toon outline & shading post-processing effect using Sobel edge detection algorithm based on normal, depth, and color. With some cel-shading on top and a LOT of tuning, we had a pretty cool effect that feels like a comic book. The game is released on [Steam](https://store.steampowered.com/app/3290110/Lanesplitterz/) now!
 
 ![Toon shading](/assets/lanesplitterz/content.webp)

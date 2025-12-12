@@ -6,8 +6,6 @@ preview: /assets/ocean/preview.webp
 tags: [Unity, HLSL, computer-animation, ocean-render]
 ---
 
-# Relaxing Ocean Simulation 🌊
-
 [Build Demo](https://shaderwitch.itch.io/relaxing-ocean-simulation)
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/SC2Mpv0h7Ec?si=SQCf8krVYM5hvmHz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -144,3 +142,7 @@ This combination of FFT, iWave, Fresnel, and foam creates a water surface that�
 - Physically accurate buoyancy
 - Optimization for scaling bigger oceans
 - Boids simulation of seagulls
+
+# Sources
+
+🔗 []()

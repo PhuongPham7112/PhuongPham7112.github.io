@@ -6,7 +6,6 @@ preview: /assets/grass/preview.webp
 tags: [physics-simulation, Unity, HLSL, C#, computer-animation]
 ---
 
-# Intro 
 Inspired by this research paper, I'm building a procedural grass system with physics simulation driven by the GPU Compute Shader in Unity.Each blade of grass is represented as a quadratic Bezier curve, and the tip of the grass blade is affected by natural forces (wind + stiffness + gravity) and collision. I made a slight improvement on top of the Bezier curve representation for the grass, using legendre-gauss solution for better approximation of the arc length (i.e. the grass length).
 
 # Demo

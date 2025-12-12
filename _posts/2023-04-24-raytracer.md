@@ -7,8 +7,9 @@ preview: /assets/raytracer_img/preview.webp
 tags: [raytracer, OpenGL, computer-graphics]
 ---
 
+First time learning to build raytracer from scratch using OpenGL.
+
 # Raytracing Logic
-First time learning to build raytracer from scratch using OpenGL. The logic was pretty straightforward:
 
 1. Shoot a primary ray from the camera pixel by pixel within a frame
 2. Calculate to determine whether the ray hits any object, two types of geometry in the scene was Triangle and Sphere 
@@ -25,6 +26,10 @@ Below are some of the result pictures:
 ![Picture 3](/assets/raytracer_img/snow.webp)
 ![Picture 4](/assets/raytracer_img/spheres.webp)
 ![Picture 5](/assets/raytracer_img/SIGGRAPH.webp)
+
+# Sources
+
+🔗 [Github code](https://github.com/PhuongPham7112/airi-graphics-programming/tree/main/airi-raytracer)
 
 # 🛠️ Tools used
 
