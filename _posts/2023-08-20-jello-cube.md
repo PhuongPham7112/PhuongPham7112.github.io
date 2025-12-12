@@ -26,8 +26,7 @@ Here are some *bouncy* animations to look at:
 
 # Sources
 
-🔗 [Github code](https://github.com/PhuongPham7112/airi-graphics-programming/tree/main/airi-jello-cube)
-
+🔗 [Github code](https://github.com/PhuongPham7112/airi-graphics-programming/tree/main/airi-jello-cube) \
 🔗 [CSCI 520: Jello Cube assignment](https://viterbi-web.usc.edu/~jbarbic/cs520-s24/assign1/)
 
 # 🛠️ Tools used
