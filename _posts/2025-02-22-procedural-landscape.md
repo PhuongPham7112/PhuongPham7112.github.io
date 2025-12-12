@@ -3,7 +3,7 @@ layout: post
 title:  "Triplanar Mapping for Landscape"
 summary: "A tool for procedural landscape texturing"
 preview: /assets/procedural_texture/preview.webp
-tags: [Unreal, shaders]
+tags: [Unreal, shaders, procedural]
 ---
 
 While working on DuoQ - a stylized 3D FPS game my schoolmates and I are building - one of the more technical tasks my art leads asked for is creating an easy landscape system for artists in Unreal. Specifically on hills and slopes, they want the grass texture to always be on top and the sides of the slopes to have rocky texture. After looking at their reference, I immediately dove into triplanar mapping. 

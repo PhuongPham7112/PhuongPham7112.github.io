@@ -3,6 +3,7 @@ layout: post
 title:  "First PC Build"
 summary: "as a software person intimidated by hardware"
 preview: /assets/pc/preview.jpg
+tags: [pc, hardware]
 ---
 
 One of the things I thought I would never cross from my bucket list is building a PC. But here I am facing my fear... Consider this post a light documentation for my future self who might want to build another computer.
