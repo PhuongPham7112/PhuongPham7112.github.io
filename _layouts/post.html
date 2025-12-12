@@ -11,6 +11,10 @@ layout: default
     {{ content }}
   </article>
 
+  {% for tag in post.tags %}
+    <div>{tag}</div>
+  {% endfor %}
+
   <div class="post-nav">
     {% if page.next.url %}
       <a class="nav-item" href="{{ page.next.url | prepend: site.baseurl }}">&laquo; Prev</a>
